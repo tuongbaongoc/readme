@@ -1,8 +1,7 @@
 #readme
 let chat 1
 chat tet
-233
-2
+2332
 3
 5
 6
