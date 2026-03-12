@@ -1,18 +1,12 @@
   #readme let chat 1  
-chat te   bv   
+chat te   
 3       
 51              
-6           v         
-7 
+6           v         7 
 8             c bn 
-11                     
-2               
+2
 21                     
 2          
      n  
           
-      
-  
-   
-  
- 
+
